@@ -48,8 +48,8 @@ def my_each(array)
   while < array.lenght
     yield(array[i])
     i += 1
+    
   end
-    array
 end
 
 collection = [1, 2, 3, 4]
