@@ -47,5 +47,6 @@ def my_each(array)
   num = 0
   while < array
     num += 1
+  
   end
 end
