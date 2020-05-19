@@ -20,7 +20,7 @@
 
 
 def my_each(s)
-  if block_given?
+  #if block_given?
 
   i = 0
   while < array.size
