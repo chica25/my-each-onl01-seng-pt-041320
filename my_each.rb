@@ -45,11 +45,3 @@
 
 def my_each(name)
 end
-
-
-
-
-
-
-
-
