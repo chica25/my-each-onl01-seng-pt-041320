@@ -43,5 +43,5 @@
 
 # ------------------------
 
-def my_each(name)
+def my_each(array)
 end
