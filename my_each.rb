@@ -19,7 +19,7 @@
 
 
 
-def my_each(s)
+def my_each(array)
   #if block_given?
 
   i = 0
