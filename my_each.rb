@@ -13,7 +13,7 @@ end
 
   collection = [].collect
   my_each(collection) do |i|
-    puts word
+    puts i
   end
 end
 
