@@ -19,31 +19,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ------------------------
-
-def my_each(array)
+def my_each(s)
   if block_given?
 
   i = 0
