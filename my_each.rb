@@ -44,9 +44,10 @@
 # ------------------------
 
 def my_each(array)
-  num = 0
+  i = 0
   while < array.size
-    num += 1
+    yield(array[i])
+    i += 1
 
   end
 #end
